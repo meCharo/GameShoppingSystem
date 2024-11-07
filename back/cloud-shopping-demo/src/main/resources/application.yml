@@ -1,0 +1,22 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: demo-service
+  datasource:
+    url: jdbc:mysql://localhost:3306/shop?serverTimezone=UTC
+    #    url: jdbc:mysql://localhost:3306/shop?useUnicode=true&amp;characterEncoding=UTF-8
+    username: charo
+    password: shop
+    driver-class-name: com.mysql.cj.jdbc.Driver
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:10086/eureka
+  instance:
+    prefer-ip-address: true
+    ip-address: 127.0.0.1
+mybatis:
+  #  type-aliases-package: com.cloudshopping.user.entity
+  mapper-locations: classpath:/mapper/*.xml
