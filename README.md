@@ -58,6 +58,8 @@ server {
 ```
 
 ## Screenshots
+![Screenshot 2024-11-12 at 9.14.39 PM](assets/Screenshot%202024-11-12%20at%209.14.39%20PM.png)
+
 ![Screenshot 2024-11-12 at 9.49.13 PM](assets/Screenshot%202024-11-12%20at%209.49.13%20PM.png)
 ![Screenshot 2024-11-12 at 9.59.57 PM](assets/Screenshot%202024-11-12%20at%209.59.57%20PM.png)
 ![Screenshot 2024-11-12 at 10.04.21 PM](assets/Screenshot%202024-11-12%20at%2010.04.21%20PM.png)
